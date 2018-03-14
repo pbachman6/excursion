@@ -12,6 +12,10 @@ h2 {
   font-weight: 300;
 }
 
+h3 {
+  color: gray;
+}
+
 body {
   font-family: Verdana;
   text-align: center;
